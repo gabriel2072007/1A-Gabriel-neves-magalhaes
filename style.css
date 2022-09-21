@@ -1,20 +1,60 @@
-body {
-    background: #CCCCCC;
+.minhalista {
+    color: whitesmoke;
+    font-size: 30;
 }
 
-h1 {
-    text-align:center
+.listas {
+    background: black;
 }
 
-p {
+.imagem {
     text-align: center;
-   
+    background: black
 }
 
-em strong {
+
+.lista{
+    color: whitesmoke;
+    font-size: 30;
+}
+
+#imagem {
+    text-align: center;
+    border: 5px;
+    border-style: solid;
+    border-color: blue;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    
+    
+
+
+
+
+}
+
+#link {
+    text-align: center;
+}
+    
+p {
     color:red;
+    font-size:30;
+    text-align: right;
+    
 }
 
-#missao {
-    font-size: 20px;
+h1 { color:blue;
+     text-align: center;
+     font-size: 50
+     
 }
+
+h2 {
+    color:green;
+    text-align: left;
+    font-size: 40;
+    
+} 
+
